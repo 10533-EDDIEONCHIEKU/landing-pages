@@ -1,4 +1,4 @@
-# landing-pages# {Application Name}
+# landing-pages# EDDIE ONCHIEKU
 #### Basic portfolio, 2020
 #### By **{List of contributors}**
 ## Description
